@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Feliperojas2601.
-- 👀 I’m interested in web development, client server architecture and relational databases.
-- 🌱 I’m currently learning AWS.
-- 💞️ I’m looking to collaborate on web projects with original ideas.
+- 👀 I’m interested in web development, MSA and BackEnd.
+- 🌱 I’m currently learning Kubernetes.
+- 💞️ I’m looking to collaborate on projects with original ideas.
 - 📫 How to reach me: my institutional email.
 
 <!---
