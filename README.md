@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feliperojas2601.
 - 👀 I’m interested in web development, MSA and BackEnd.
-- 🌱 I’m currently learning Kubernetes.
+- 🌱 I’m currently learning Astro.
 - 💞️ I’m looking to collaborate on projects with original ideas.
 - 📫 How to reach me: my institutional email.
 
