@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feliperojas2601.
 - 👀 I’m interested in Software Engineering, Software Architecture, Web Development, MSA and Backend.
-- 🌱 I’m currently learning Astro.
+- 🌱 I’m currently learning Design patterns.
 - 💞️ I’m looking to collaborate on projects with original ideas.
 - 📫 How to reach me: my institutional email.
 
